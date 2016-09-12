@@ -1,0 +1,2 @@
+# AndroidEasyStoGu
+Android for EasyStoGu
